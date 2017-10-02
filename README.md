@@ -1,6 +1,6 @@
 # client-server-chat
 
-** This program was developed to be run on Oregon State University's flip shell servers ***
+** This program was developed to be run on Oregon State University's shell server (Linux) ***
 
 1. Put the following three files in the same folder: chatclient.c, chatserve.py, chatProgram.sh
 
